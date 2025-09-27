@@ -47,6 +47,7 @@ db.sqlite3
 # Environment variables
 .env
 *.env
+session/
 
 # Docker
 docker-compose.override.yml
